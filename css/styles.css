@@ -378,6 +378,8 @@ ul {
   margin: 0 auto;
   display: flex;
   align-items: baseline;
+}
+.logo_p {
   margin-right: 120px;
 }
 
