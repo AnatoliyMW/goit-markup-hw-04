@@ -376,6 +376,8 @@ ul {
   width: 1158px;
   padding: 0 15px;
   margin: 0 auto;
+
+  align-items: baseline;
   margin-right: 120px;
 }
 
@@ -407,8 +409,6 @@ img {
   letter-spacing: 0.02em;
   color: #ffffff;
   margin-bottom: 16px;
-  display: flex;
-  align-items: baseline;
 }
 .ul-footer {
   display: flex;
