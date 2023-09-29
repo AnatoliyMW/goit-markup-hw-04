@@ -80,7 +80,7 @@ span {
   height: 4px;
   background-color: #404bbf;
   border-radius: 2px;
-  width: 48px;
+  width: 100%;
 }
 
 .studio:hover {
